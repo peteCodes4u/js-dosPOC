@@ -27,6 +27,12 @@ selectTopic();
 const toggleButton1 = document.getElementById("toggleButton1");
 toggleButton1.addEventListener("click", function() {window.location.href= "./index-2.html"});
 
+//const togglebutton2 = document.getElementById("toggleButton2");
+//togglebutton2.addEventListener("click", function() {window.location.href= "./index-master.html"});
+
+//const togglebutton4 = document.getElementById("ToggleButton4");
+//togglebutton4.addEventListener("click", function() {window.location.href= "./index.html"});
+
 
 
 
