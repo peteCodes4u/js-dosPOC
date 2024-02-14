@@ -3,12 +3,6 @@ const image2 = document.getElementById("gd1");
 const image3 = document.getElementById("gs2");
 const image4 = document.getElementById("gd2");
 
-const togglebutton2 = document.getElementById("toggleButton2");
-togglebutton2.addEventListener("click", function() {window.location.href= "./index-master.html"});
-
-const togglebutton4 = document.getElementById("ToggleButton4");
-togglebutton2.addEventListener("click", function() {window.location.href= "./index.html"});
-
 const toggleButton3 = document.getElementById("toggleButton3");
 toggleButton3.addEventListener("click", function() {
   
@@ -65,3 +59,8 @@ listTopics();
 console.log('Here are the topics we learned through Prework:');
 selectTopic();
 
+const togglebutton2 = document.getElementById("toggleButton2");
+togglebutton2.addEventListener("click", function() {window.location.href= "./index-master.html"});
+
+const togglebutton4 = document.getElementById("toggleButton4");
+togglebutton4.addEventListener("click", function() {window.location.href= "./index.html"});
