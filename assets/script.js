@@ -60,7 +60,7 @@ console.log('Here are the topics we learned through Prework:');
 selectTopic();
 
 const togglebutton2 = document.getElementById("toggleButton2");
-togglebutton2.addEventListener("click", function() {window.location.href= "./index-master.html"});
+togglebutton2.addEventListener("click", function() {window.location.href= "./index.html"});
 
 const togglebutton4 = document.getElementById("toggleButton4");
-togglebutton4.addEventListener("click", function() {window.location.href= "./index.html"});
+togglebutton4.addEventListener("click", function() {window.location.href= "./PlayTheGameDigger!.html"});
